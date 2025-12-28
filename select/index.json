@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "你就不要想起我",
+  "base_artist": "田馥甄",
+  "createdAt": "2025-12-28T14:48:46.514231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/01_你就不要想起我_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/02_你就不要想起我_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/03_你就不要想起我_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/04_你就不要想起我_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "Hebe",
+      "has_synced": true,
+      "path": "select/05_你就不要想起我_Hebe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "魔鬼中的天使 / 你就不要想起我 - Live",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/06_魔鬼中的天使___你就不要想起我_-_Live_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "你就不要想起我 - Live",
+      "artist": "張杰",
+      "has_synced": true,
+      "path": "select/07_你就不要想起我_-_Live_張杰.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/08_你就不要想起我_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/09_你就不要想起我_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/10_你就不要想起我_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "魔鬼中的天使 / 你就不要想起我 (Live)",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/11_魔鬼中的天使___你就不要想起我_(Live)_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "你就不要想起我",
+      "artist": "Hebe田馥甄",
+      "has_synced": true,
+      "path": "select/12_你就不要想起我_Hebe田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "你就不要想起我(Live)",
+      "artist": "张杰",
+      "has_synced": true,
+      "path": "select/13_你就不要想起我(Live)_张杰.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "你就不要想起我 (Ni Jiu Bu Yao Xiang Qi Wo) [You Better Not Think About Me]",
+      "artist": "Hebe Tian",
+      "has_synced": true,
+      "path": "select/14_你就不要想起我_(Ni_Jiu_Bu_Yao_Xiang_Qi_Wo)_[You_Better_Not_Think_About_Me]_Hebe_Tian.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "你就不要想起我 (Live)",
+      "artist": "张杰",
+      "has_synced": true,
+      "path": "select/15_你就不要想起我_(Live)_张杰.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "你就不要想起我",
+      "artist": "田馥甄",
+      "has_synced": false,
+      "path": "select/pl_01_你就不要想起我_田馥甄.txt"
+    }
+  ]
+}
